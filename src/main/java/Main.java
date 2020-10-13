@@ -5,7 +5,7 @@ public class Main {
         new Main().aSimpleMethod();
     }
 
-//    public void aSimpleMethod() {
-//
-//    }
+    public void aSimpleMethod() {
+
+    }
 }
